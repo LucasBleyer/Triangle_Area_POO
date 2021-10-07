@@ -10,5 +10,4 @@ public class Executa {
         
         System.out.println("Área: "+ t1.area );
     }
-    s
 }
